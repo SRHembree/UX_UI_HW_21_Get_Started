@@ -5,6 +5,7 @@
 html {
     scroll-behavior: smooth; 
 }
+
 /* <!-- Nav CSS --> */
 #topoftheworld {
     padding-top: 1rem;
@@ -89,13 +90,13 @@ header.masthead {
 .text-uppercase {
     text-transform: uppercase !important;
 }
-.btn-xl {
+#btn-xl {
     padding: 1rem 2rem;
     font-family: "Roboto", Arial, Helvetica, sans-serif;
     font-size: 1.2rem;
     font-weight: 650;
 }
-.btn-primary {
+.btn-primarily {
     color: white;
     background-color: #1B3B43;
     border-color: #1B3B43;
